@@ -1,0 +1,23 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "The word guessing game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jan-gersl/hangman.git"
+  },
+  "author": "Honza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jan-gersl/hangman/issues"
+  },
+  "homepage": "https://github.com/jan-gersl/hangman#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "jest": "^26.0.1"
+  }
+}
